@@ -6,3 +6,4 @@
 #### Лекция 4 (https://www.youtube.com/watch?v=OTHjIsv8_Hc&list=PLA0M1Bcd0w8xZA3Kl1fYmOH_MfLpiYMRs&index=5) выполнена
 #### Лекция 5 (https://www.youtube.com/watch?v=tW7Bg5zMyKI&list=PLA0M1Bcd0w8xZA3Kl1fYmOH_MfLpiYMRs&index=6) выполнена
 #### Лекция 6 (https://www.youtube.com/watch?v=-7NbLKn5L9w&list=PLA0M1Bcd0w8xZA3Kl1fYmOH_MfLpiYMRs&index=6) выполнена
+#### Лекция 7 (https://www.youtube.com/watch?v=m7asgk5F0u8&list=PLA0M1Bcd0w8xZA3Kl1fYmOH_MfLpiYMRs&index=7) выполнена
