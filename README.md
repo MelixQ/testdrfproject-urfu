@@ -10,3 +10,4 @@
 #### Лекция 8 выполнена ([ссылка на учебный материал](https://www.youtube.com/watch?v=FiRmAMroTh0&list=PLA0M1Bcd0w8xZA3Kl1fYmOH_MfLpiYMRs&index=8))
 #### Лекция 9 выполнена ([ссылка на учебный материал](https://www.youtube.com/watch?v=Ur24Ms-MD5k&list=PLA0M1Bcd0w8xZA3Kl1fYmOH_MfLpiYMRs&index=9))
 #### Лекция 10 выполнена ([ссылка на учебный материал](https://www.youtube.com/watch?v=PQwDeI0DDW4&list=PLA0M1Bcd0w8xZA3Kl1fYmOH_MfLpiYMRs&index=10))
+#### Лекция 14 выполнена ([ссылка на учебный материал](https://www.youtube.com/watch?v=b4C6UTlSC-o&list=PLA0M1Bcd0w8xZA3Kl1fYmOH_MfLpiYMRs&index=14))
